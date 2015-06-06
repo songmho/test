@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication4", "ConsoleApplication4\ConsoleApplication4.vcxproj", "{8894D627-F311-4708-8BB1-54EF0AB64A3B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{9E939A6B-C4A3-4876-ADB7-3CE1012E70C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -15,6 +17,10 @@ Global
 		{8894D627-F311-4708-8BB1-54EF0AB64A3B}.Debug|Win32.Build.0 = Debug|Win32
 		{8894D627-F311-4708-8BB1-54EF0AB64A3B}.Release|Win32.ActiveCfg = Release|Win32
 		{8894D627-F311-4708-8BB1-54EF0AB64A3B}.Release|Win32.Build.0 = Release|Win32
+		{9E939A6B-C4A3-4876-ADB7-3CE1012E70C2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9E939A6B-C4A3-4876-ADB7-3CE1012E70C2}.Debug|Win32.Build.0 = Debug|Win32
+		{9E939A6B-C4A3-4876-ADB7-3CE1012E70C2}.Release|Win32.ActiveCfg = Release|Win32
+		{9E939A6B-C4A3-4876-ADB7-3CE1012E70C2}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
